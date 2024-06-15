@@ -1,7 +1,9 @@
 .DS_Store
 node_modules
 *.log
-explorations
+all explorations
+
+
 TODOs.md
 RELEASE_NOTE*.md
 packages/server-renderer/basic.js
